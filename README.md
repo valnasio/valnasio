@@ -14,7 +14,7 @@ Aqui estão algumas informações sobre mim:
 - 👯 Estou interessado em colaborar em projetos de desenvolvimento web.
 - 🤔 Estou procurando ajuda com aprimorar minhas habilidades em desenvolvimento web.
 - 💬 Pode me perguntar sobre desenvolvimento web, infraestrutura de TI, e sysadmin.
-- 📫 Como entrar em contato comigo: [E-mail](rafael.valnasio.santos@gmail.com)
+- 📫 Como entrar em contato comigo: rafael.valnasio.santos@gmail.com
 - 😄 Pronomes: Ele/ela (ou seus pronomes preferidos).
 - ⚡ Curiosidade: Já tenho experiência em infraestrutura de T.I e administração de sistemas.
 
