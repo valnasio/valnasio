@@ -1,4 +1,4 @@
-Olá, eu sou Rafael Valnásio, e seja bem vindo ao meu GitHub! 👋
+### Olá, eu sou Rafael Valnásio, e seja bem vindo ao meu GitHub! 👋
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.valnasio2)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valnasio/)
@@ -7,7 +7,7 @@ Olá, eu sou Rafael Valnásio, e seja bem vindo ao meu GitHub! 👋
 
 
 
-Aqui estão algumas informações sobre mim:
+## Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - 🌱 Estou começando a desenvolver aplicações web e expandindo meu conhecimento nessa área.
