@@ -1,13 +1,11 @@
-<img align="right" width="380px" style="margin-top:-15px" src="https://i.ibb.co/wysBF44/octocat-17011170960042.png">
+<img align="right" width="400vh" style="margin-top:-15px" src="https://i.ibb.co/wysBF44/octocat-17011170960042.png">
 
 </br>
 </br>
 
 <div dsplay="inline-block">
  
- <a href="https://instagram.com/nessa_s1lva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:vanessa.araujoprogramacao@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vanessa--araujo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
 
 
