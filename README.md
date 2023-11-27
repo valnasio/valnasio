@@ -12,7 +12,7 @@
 </br>
 </br>
 
-### OLÁ, EU SOU RAFAEL VALNÁSIO, E SEJA BEN VINDO(A) AO MEU GITHUB! 👋
+### OLÁ, EU SOU RAFAEL VALNÁSIO, E SEJA BEM VINDO(A) AO MEU GITHUB! 👋
 <br>
 <br>
 <br>
