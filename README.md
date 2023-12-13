@@ -25,7 +25,7 @@
 
 ### SKILS:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valnasio&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valnasio)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valnasio&show_icons=true&theme=radical)
 
 ### TECNOLOGIAS:
 
