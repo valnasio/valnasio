@@ -1,18 +1,6 @@
-<img align="right" width="250px" style="margin-top:20px" src="[https://i.ibb.co/b5GCmLS/octocat-1701118223234.png](https://i.ibb.co/b5GCmLS/octocat-1701118223234.png)">
-
-</br>
-</br>
-
-<div dsplay="inline-block">
- 
-
-</div>
 
 
-</br>
-</br>
-
-### OLÁ, EU SOU RAFAEL VALNÁSIO, E SEJA BEM VINDO(A) AO MEU GITHUB! 👋
+### SEJA BEM VINDO(A) AO MEU GITHUB! 👋
 <br>
 <br>
 <br>
@@ -36,10 +24,9 @@
 ### SOBRE MIM:
 
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
-- 🌱 Estou começando a desenvolver aplicações web e expandindo meu conhecimento nessa área.
-- 👯 Estou interessado em colaborar em projetos de desenvolvimento web.
-- 🤔 Estou procurando ajuda com aprimorar minhas habilidades em desenvolvimento web.
+- 👯 Estou me especializando em DevOps. .
+- 🤔 Estou procurando ajuda com aprimorar minhas habilidades.
 - 💬 Pode me perguntar sobre infraestrutura de TI, e sysadmin (e desenvolvimento web).
 - 😄 Pronomes: Ele/dele .
-- ⚡ Curiosidade: Já tenho experiência em infraestrutura de T.I e administração de sistemas.
+
 
