@@ -22,7 +22,7 @@
 ## 🚀 Tech Stack e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,bash,linux,git,github,html,css,powershell,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,bash,linux,git,github,python,html,css,powershell,vscode" />
 </div>
 
 ---
