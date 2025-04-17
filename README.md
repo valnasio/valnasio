@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Pós-graduando em <strong>DevOps</strong> <br>
-☁️ Focado em <strong>AWS</strong> e ferramentas da cultura DevOps <br>
+☁️ Focado em <strong>AWS</strong> e ferramentas da cultura <strong>DevOps</strong> <br>
 🔧 Praticando e aprimorando skills em automação, infraestrutura e integração contínua
 </p>
 
