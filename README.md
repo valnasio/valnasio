@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Seja bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-🎓 Formado em Analise e Desenvolvimento de Sistemas <br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
 🎓 Pós-graduando em <strong>DevOps</strong> <br>
 ☁️ Focado em <strong>AWS</strong> e ferramentas da cultura <strong>DevOps</strong> <br>
 🔧 Praticando e aprimorando skills em automação, infraestrutura e integração contínua
