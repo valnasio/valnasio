@@ -50,6 +50,3 @@
 
 ---
 
-## 📌 Repositórios em destaque
-
-> Aqui você encontrará scripts, automações, configs e materiais que venho
