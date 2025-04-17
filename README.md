@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 Pós-graduando em <strong>DevOps</strong> <br>
-☁️ Focado em soluções com <strong>AWS</strong> e práticas modernas de automação <br>
-🔧 Apaixonado por tecnologia, infraestrutura e boas práticas de desenvolvimento
+☁️ Focado em <strong>AWS</strong> e ferramentas da cultura DevOps <br>
+🔧 Praticando e aprimorando skills em automação, infraestrutura e integração contínua
 </p>
 
 ---
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,27 +39,17 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-💡 Alguns dos repositórios onde coloco em prática o que venho estudando:
-
-- 📦 [`infraestrutura-automatizada`](https://github.com/valnasio/infraestrutura-automatizada) — Provisionamento com Bash e Terraform
-- 🐳 [`meu-lab-docker`](https://github.com/valnasio/meu-lab-docker) — Ambientes containerizados para testes e estudos
-- ⚙️ [`ci-cd-gitlab`](https://github.com/valnasio/ci-cd-gitlab) — Pipelines de integração e entrega contínua
-- ☁️ [`aws-scripts`](https://github.com/valnasio/aws-scripts) — Automatizações e práticas com serviços da AWS
-
----
-
-## 👨‍💻 Sobre Mim
+## 🧠 Sobre Mim
 
 - ✅ Graduado em Análise e Desenvolvimento de Sistemas  
-- 📚 Atualmente cursando pós-graduação em DevOps  
-- 🔍 Estudando com foco em práticas de automação, cloud computing e cultura DevOps  
-- 📌 Interesse por temas como infraestrutura como código, pipelines CI/CD, monitoramento e segurança  
+- 📘 Pós-graduando em DevOps  
+- 🚀 Estudando práticas modernas de infraestrutura como código, automação, CI/CD e cloud computing  
+- 💡 Buscando evoluir continuamente nas ferramentas que fazem parte da cultura DevOps  
+- 🛠️ Explorando projetos pessoais, labs e estudos na área  
 - 👤 Pronomes: **Ele/Dele**  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 📌 Repositórios em destaque
+
+> Aqui você encontrará scripts, automações, configs e materiais que venho
