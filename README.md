@@ -1,9 +1,7 @@
 
-<p align="center">
- 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:4ADE80&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D2D2D,100:4E92D4&height=120&section=header&text=%F0%9F%8C%9F+Bem-vindo%20ao%20meu%20GitHub+%F0%9F%8C%9F&fontSize=40&fontColor=fff&fontAlignY=40&animation=twinkling" />
 </p>
 
 ---
