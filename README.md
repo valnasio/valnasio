@@ -45,7 +45,7 @@
 
 ## ⚡ Curiosidades rápidas
 
-- 🌍 Já mexi com ambientes híbridos (on-premises + cloud)
+- 🌍 Tenho experiência em  ambientes híbridos (on-premises + cloud)
 - 🛠️ Gosto de montar labs com VMs, Vagrant, containers e automações
 - 🎯 Sempre buscando balancear **infraestrutura estável** com **entregas ágeis**
 - 🧩 Adepto do lema: *"automatize tudo que for repetitivo"*
