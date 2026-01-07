@@ -1,57 +1,95 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E40AF,100:06B6D4&height=140&section=header&text=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80&fontSize=38&fontColor=E5E7EB&fontAlignY=45&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D2D2D,100:4E92D4&height=120&section=header&text=%F0%9F%8C%9F+Bem-vindo%20ao%20meu%20GitHub+%F0%9F%8C%9F&fontSize=40&fontColor=fff&fontAlignY=40&animation=twinkling" />
+ 
 </p>
 
 ---
 
-## ✨ Sobre mim
+<div align="center">
+
+🔹🔹🔹 **PAINEL DE IDENTIDADE TÉCNICA** 🔹🔹🔹
+
+</div>
+
+---
+
+## 🧬 Sobre mim
+
+<div align="center">
+
+👨‍🚀 **Profissional de Tecnologia com foco em Cloud, DevOps e SRE**
+
+</div>
+
+---
 
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**  
-🎓 **Pós-graduando em DevOps**  
-🛠️ Cursos focados em **AWS**, **CI/CD**, **Docker**, **Terraform**, e práticas de **Infra como Código**  
-📌 Explorando o mundo de **automatizações, containers, pipelines e cloud-native apps**  
-🎯 Sempre buscando evoluir com projetos reais e novas ferramentas  
-🧔 Pronomes: **Ele/Dele**
+☁️ **Pós-graduado em Cloud Computing**  
+⚙️ **Pós-graduando em Engenharia DevOps e SRE**
 
 ---
 
-## 🚀 Tech Stack e Ferramentas
+🛠️ Atuação prática com **AWS**, **containers**, **pipelines CI/CD**, **Terraform** e **Infraestrutura como Código (IaC)**  
+📡 Interesse contínuo em **resiliência, observabilidade, automação e confiabilidade de sistemas**  
+🚀 Construção de ambientes **cloud-native**, escaláveis e tolerantes a falhas  
+🎯 Evolução constante por meio de **labs, projetos reais e melhoria contínua**
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,bash,linux,git,github,python,html,css,powershell,vscode" />
+
+🧔 **Pronomes:** Ele/Dele
+
 </div>
 
 ---
 
-## 📊 Linguagens mais usadas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valnasio&layout=compact&theme=gradient&hide_border=true&langs_count=6&bg_color=00000000" />
+
+━━━━━━━━━━ ⚙️ STACK TECNOLÓGICA ⚙️ ━━━━━━━━━━
+
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,bash,git,github,python,powershell,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📬 Contato
-
 <div align="center">
-  <a href="mailto:rafael.valnasio.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/valnasio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--  <a href="https://www.instagram.com/rafael.valnasio2"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+
+━━━━━━━━━━ 🌐 CONEXÕES 🌐 ━━━━━━━━━━
+
 </div>
+
+<p align="center">
+  <a href="mailto:rafael.valnasio.santos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+  </a>
+  <a href="https://www.linkedin.com/in/valnasio/">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Curiosidades rápidas
+<div align="center">
 
-- 🌍 Tenho experiência em  ambientes híbridos (on-premises + cloud)
-- 🛠️ Gosto de montar labs com VMs, Vagrant, containers e automações
-- 🎯 Sempre buscando balancear **infraestrutura estável** com **entregas ágeis**
-- 🧩 Adepto do lema: *"automatize tudo que for repetitivo"*
+━━━━━━━━━━ ⚡ STATUS OPERACIONAL ⚡ ━━━━━━━━━━
+
+</div>
+
+- 🌌 Experiência com **ambientes híbridos e cloud-first**
+- 🧪 Criação de **labs automatizados** com VMs, Docker, Vagrant e IaC
+- 🔁 Forte cultura **DevOps & SRE** (automação, padronização e confiabilidade)
+- 📊 Foco em **estabilidade, observabilidade e performance**
+- 🧠 Filosofia: *“Se é repetitivo, deve ser automatizado.”*
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E40AF,100:7C3AED&height=110&section=footer&animation=fadeIn"/>
 </p>
