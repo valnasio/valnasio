@@ -25,7 +25,7 @@
 
 <div align="center">
 
-🧬 **PAINEL DE IDENTIDADE TÉCNICA // EDIÇÃO CYBERPUNK** 🧬
+🧬 **PAINEL DE IDENTIDADE TÉCNICA** 🧬
 
 </div>
 
