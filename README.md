@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=⚡%20VALNASIO%20//%20INFRA%20•%20CLOUD%20•%20DEVOPS%20•%20SRE%20⚡&fontSize=28&fontAlignY=35&fontColor=F9FAFB&color=0:020617,25:4C1D95,50:7C3AED,75:06B6D4,100:020617&animation=twinkling" />
 </p>
 
-<!-- SUBTÍTULO TERMINAL
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=780&lines=Iniciando+pipeline+de+Infra%2C+Cloud+%26+DevOps...;Carregando+ambientes+cloud-native+e+automação...;Implantando+resili%C3%AAncia%2C+observabilidade+e+confiabilidade...;Origem%3A+Feira+de+Santana%2C+Bahia+%7C+Status%3A+ONLINE+%5BOK%5D" />
-</p> -->
+
 
 <!-- BADGES CYBERPUNK -->
 <p align="center">
