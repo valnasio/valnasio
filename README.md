@@ -1,6 +1,6 @@
 <!-- CABEÇALHO CYBERPUNK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=⚡%20RAFAEL VALNÁSIO%20 |%20INFRA%20•%20CLOUD%20•%20DEVOPS%20•%20SRE%20⚡&fontSize=28&fontAlignY=35&fontColor=F9FAFB&color=0:020617,25:4C1D95,50:7C3AED,75:06B6D4,100:020617&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=⚡%20VALNÁSIO%20 |%20INFRA%20•%20CLOUD%20•%20DEVOPS%20•%20SRE%20⚡&fontSize=28&fontAlignY=35&fontColor=F9FAFB&color=0:020617,25:4C1D95,50:7C3AED,75:06B6D4,100:020617&animation=twinkling" />
 </p>
 
 
