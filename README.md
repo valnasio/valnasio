@@ -74,27 +74,6 @@
 
 <div align="center">
 
-📊 **DASHBOARD TÉCNICO // ANÁLISE DO GITHUB**
-
-</div>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=valnasio&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E5E7EB&icon_color=06B6D4"
-    alt="Estatísticas do GitHub de valnasio"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=valnasio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ec4899&text_color=E5E7EB"
-    alt="Top linguagens de valnasio"
-  />
-</p>
-
----
-
-<div align="center">
 
 🧠 **PERFIL DE CONTRIBUIÇÃO // RESUMO AVANÇADO**
 
