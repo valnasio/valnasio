@@ -1,160 +1,173 @@
-<!-- CABEÇALHO CYBERPUNK -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=⚡%20RAFAEL&nbsp;&nbsp;&nbsp;VALNÁSIO%20|%20INFRA%20•%20CLOUD%20•%20DEVOPS%20•%20SRE%20⚡&fontSize=28&fontAlignY=35&fontColor=F9FAFB&color=0:020617,25:4C1D95,50:7C3AED,75:06B6D4,100:020617&animation=twinkling" />
-</p>
+<!-- ╔═══════════════════════════════════════════════════════════════╗
+     ║  github.com/valnasio · perfil estilo valnasio.com.br          ║
+     ║  Visual montado com SVGs próprios em /assets (dark · roxo→azul)║
+     ║  Mantenha a pasta assets/ no mesmo repo deste README.         ║
+     ╚═══════════════════════════════════════════════════════════════╝ -->
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░  HERO  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-
-<!-- BADGES CYBERPUNK -->
-<p align="center">
-  <a href="https://github.com/valnasio">
-    <img src="https://img.shields.io/github/followers/valnasio?label=Seguidores&style=for-the-badge&logo=github&logoColor=F9FAFB&labelColor=0F172A&color=7C3AED" />
-  </a>
-  <a href="https://github.com/valnasio?tab=repositories">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-ONLINE-06B6D4?style=for-the-badge&logo=github&rrlogoColor=F9FAFB&labelColor=020617" />
-  </a>
-  <a href="https://github.com/valnasio?tab=stars">
-    <img src="https://img.shields.io/github/stars/valnasio?label=Estrelas&style=for-the-badge&logo=github&logoColor=F9FAFB&labelColor=020617&color=ec4899" />
-  </a>
-</p>
-
----
+<a href="https://valnasio.com.br">
+  <img width="100%" src="./assets/hero.svg" alt="Rafael Valnásio — Infrastructure & DevOps Engineer" />
+</a>
 
 <div align="center">
 
-🧬 **PAINEL DE IDENTIDADE TÉCNICA** 🧬
+&nbsp;
+
+<a href="https://valnasio.com.br"><img src="https://img.shields.io/badge/→_valnasio.com.br-visitar_site-7F5AF0?style=for-the-badge&labelColor=0d1117" alt="site" /></a>
+<a href="https://linkedin.com/in/valnasio"><img src="https://img.shields.io/badge/LinkedIn-/in/valnasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
+<a href="mailto:rafael@valnasio.com.br"><img src="https://img.shields.io/badge/Email-rafael@valnasio.com.br-2CB1FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" alt="email" /></a>
 
 </div>
 
----
+&nbsp;
 
-## 👤 Perfil
+<!-- ░░░░░░░░░░░░░░░░░░░  01 · SOBRE  ░░░░░░░░░░░░░░░░░░░ -->
 
-> `cargo: "Analista Pleno de Infraestrutura"`  
-> `foco: "Cloud, DevOps e SRE"`  
-> `origem: "Feira de Santana, Bahia"`  
-> `localização: "Feira de Santana, Bahia (BR | UTC-3)"`  
-> `status: "Sempre aprendendo, sempre automatizando"`  
+<img width="100%" src="./assets/sec-01.svg" alt="01 — Sobre" />
 
-🎓 **Graduado** em Análise e Desenvolvimento de Sistemas  
-☁️ **Pós-graduado** em Cloud Computing  
-⚙️ **Pós-graduando** em Engenharia DevOps e SRE  
+Comecei na base da operação de TI e evoluí para uma atuação estratégica, conectando **infraestrutura, redes, sistemas, automação e cloud**. Hoje direciono a carreira para **DevOps, Cloud Computing e SRE** — construindo ambientes mais seguros, automatizados, escaláveis e eficientes.
 
-🛠️ Atuação prática com **AWS**, **containers**, **pipelines CI/CD**, **Terraform** e **Infraestrutura como Código (IaC)**  
-📡 Foco em **resiliência**, **observabilidade**, **automação** e **confiabilidade** de ambientes  
-🚀 Construção e sustentação de **ambientes cloud-native**, escaláveis e tolerantes a falhas  
-🔁 Mentalidade de **infraestrutura como produto**, com melhoria contínua e padronização  
+Atualmente atuo como **Infrastructure Analyst — DevOps (Mid-Level)** na Estação 1, com prática consolidada em administração de servidores Linux/Windows, virtualização, containers, sustentação de aplicações e melhoria contínua. Venho aprofundando AWS, GCP, OCI, Terraform, Ansible, Jenkins e CI/CD para **reduzir retrabalho, aumentar disponibilidade e acelerar entregas com confiabilidade**.
+
+`DevOps & SRE` · `Infrastructure as Code` · `CI/CD` · `Cloud` · `Observability` · `Automation`
+
+&nbsp;
+
+<!-- ░░░░░░░░░░░░░░░░░░░  02 · STACK  ░░░░░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="./assets/sec-02.svg" alt="02 — Stack" />
 
 <div align="center">
 
-🧔 **Pronomes:** Ele/Dele
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,jenkins,git,docker,linux,python,bash,grafana&theme=dark&perline=12" alt="stack" />
 
 </div>
 
----
+| Domínio | Ferramentas |
+|:--|:--|
+| ☁️ **Cloud** | AWS · Azure · GCP · OCI |
+| ⚙️ **IaC & Automation** | Terraform · Ansible · Python · Bash |
+| ♻️ **CI/CD** | Jenkins · Git · Pipelines · Continuous Delivery |
+| ◈ **Systems** | Linux Server · Windows Server · Active Directory · VMware ESXi |
+| 📦 **Containers** | Docker · Portainer · Swarm |
+| ⇄ **Networking** | pfSense · Redes corporativas · DNS · DHCP |
+| 📊 **Observability** | Zabbix · Grafana |
+| 💾 **Backup & DR** | Veeam · Bacula · Cobian |
 
-<div align="center">
+&nbsp;
 
-💾 **STACK TECNOLÓGICA // TOOLBOX**
+<!-- ░░░░░░░░░░░░░░░  03 · EXPERIÊNCIA  ░░░░░░░░░░░░░░░ -->
 
-</div>
+<img width="100%" src="./assets/sec-03.svg" alt="03 — Experiência" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,python,powershell,vscode&theme=dark&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Infraestrutura_como_C%C3%B3digo-0F172A?style=flat-square&logo=terraform&logoColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Cloud_Native-020617?style=flat-square&logo=kubernetes&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Observabilidade-020617?style=flat-square&logo=prometheus&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-020617?style=flat-square&logo=githubactions&logoColor=F9FAFB" />
-</p>
-
----
-
-<div align="center">
-
-
-🧠 **PERFIL DE CONTRIBUIÇÃO // RESUMO AVANÇADO**
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valnasio&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valnasio&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valnasio&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valnasio&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valnasio&theme=tokyonight&utcOffset=-3" />
-</p>
-
----
-
-<div align="center">
-
-⚙️ **STATUS OPERACIONAL // MINDSET SRE**
-
-</div>
-
-```yaml
-perfil_sre:
-  cargo: "Analista Pleno de Infraestrutura"
-  foco:
-    - cloud
-    - devops
-    - sre
-  origem: "Feira de Santana, Bahia"
-  ambientes:
-    - híbrido
-    - cloud-first
-  práticas:
-    - resposta_a_incidentes
-    - chaos_engineering
-    - desenvolvimento_orientado_a_observabilidade
-  ferramentas:
-    - terraform
-    - docker
-    - aws
-    - ci_cd
-  princípios:
-    - "Se é repetitivo, automatize."
-    - "Se falhou, aprenda com isso."
-    - "Se escala, padronize."
+```text
+● mar 2026 — present   Estação 1 · Infrastructure Analyst — DevOps (Mid)   [CURRENT]
+│                      on-prem + cloud · automação · monitoramento · CI/CD
+│
+● abr 2024 — mar 2026  Moto Clube Honda · Analista de Sistemas
+│                      AWS · PABX/SIP · redes Unifi · CMS · projetos de TI
+│
+● set 2021 — abr 2024  Grupo Nobre · Analista de Infraestrutura de TI
+│                      server admin · networking · Zabbix · Squid · ativos
+│
+● abr — set 2021       Inputec · Técnico de Suporte (N1 + remoto)
+│
+● ago 2020 — abr 2021  UNIRB · Técnico de Suporte / CPD
+│
+● 2014 — 2020          Yroshy Informática · Técnico em Equipamentos
 ```
 
-- 🌌 Experiência com **ambientes híbridos e cloud-first**  
-- 🧪 Criação de **labs automatizados** com VMs, Docker, Vagrant e IaC  
-- 🔁 Atuação prática com **DevOps & SRE** no dia a dia de infraestrutura  
-- 📊 Foco em **estabilidade, observabilidade e performance**  
-- 🌵 **Raízes em Feira de Santana, Bahia**, construindo soluções para um mundo global  
+&nbsp;
 
----
+<!-- ░░░░░░░░░░░░░░░  04 · PROJETOS  ░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="./assets/sec-04.svg" alt="04 — Projetos" />
 
 <div align="center">
 
-🌐 **CONEXÕES // INTERFACE DE REDE**
+<a href="https://github.com/valnasio/Cloud-Storage-Migration-Tool">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=valnasio&repo=Cloud-Storage-Migration-Tool&title_color=7F5AF0&icon_color=2CB1FF&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&show_owner=false" alt="Cloud-Storage-Migration-Tool" />
+</a>
+<a href="https://github.com/valnasio/Backup-automation-issabel-to-s3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=valnasio&repo=Backup-automation-issabel-to-s3&title_color=7F5AF0&icon_color=2CB1FF&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&show_owner=false" alt="Backup-automation-issabel-to-s3" />
+</a>
+
+<a href="https://github.com/valnasio/Automacao_Cadastro_Active_Directory">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=valnasio&repo=Automacao_Cadastro_Active_Directory&title_color=7F5AF0&icon_color=2CB1FF&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&show_owner=false" alt="Automacao_Cadastro_Active_Directory" />
+</a>
+<a href="https://github.com/valnasio/Backup-de-Diretorios-com-python">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=valnasio&repo=Backup-de-Diretorios-com-python&title_color=7F5AF0&icon_color=2CB1FF&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&show_owner=false" alt="Backup-de-Diretorios-com-python" />
+</a>
 
 </div>
 
-<p align="center">
-  <a href="mailto:rafael.valnasio.santos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=F9FAFB"/>
-  </a>
-  <a href="https://www.linkedin.com/in/valnasio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=0F172A"/>
-  </a>
-  <a href="https://github.com/valnasio">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F9FAFB"/>
-  </a>
-</p>
+&nbsp;
 
----
+<!-- ░░░░░░░░░░░░░░░  05 · MÉTRICAS  ░░░░░░░░░░░░░░░ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:0F172A,25:4C1D95,50:7C3AED,75:06B6D4,100:020617&text=//%20SESS%C3%83O%20ENCERRADA%20-%20RA%C3%8DZES%20BAIANAS%2C%20OLHAR%20NO%20FUTURO%20&fontSize=18&fontColor=E5E7EB" />
-</p>
+<img width="100%" src="./assets/sec-05.svg" alt="05 — Métricas" />
+
+<div align="center">
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api?username=valnasio&show_icons=true&hide_border=true&title_color=7F5AF0&icon_color=2CB1FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valnasio&layout=compact&hide_border=true&title_color=7F5AF0&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=valnasio&hide_border=true&background=0d1117&stroke=21262d&ring=7F5AF0&fire=2CB1FF&currStreakLabel=4D7CFE&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+
+</div>
+
+&nbsp;
+
+<!-- ░░░░░░░░░░░░░░░  06 · FORMAÇÃO  ░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="./assets/sec-06.svg" alt="06 — Formação" />
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎓 Formação**
+
+- **Pós · DevOps & Continuous Software Engineering**<br/><sub>PUC Minas · 2025 → 2027 · em andamento</sub>
+- **Pós · Cloud Computing**<br/><sub>Anhanguera · 2025</sub>
+- **Tecnólogo em ADS**<br/><sub>UNIFAN · 2022 → 2024 · concluído</sub>
+
+</td>
+<td valign="top" width="50%">
+
+**📜 Certificações**
+
+- **AWS Certified Cloud Practitioner** · 2023
+- Fundamentos AWS — Escola da Nuvem · 2022
+- Fundamentos Azure · 2021
+- Windows Server 2016: Active Directory · 2021
+- Redes com pfSense · Ativos com Zabbix · 2021
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+<!-- ░░░░░░░░░░░░░░░  07 · CONTATO  ░░░░░░░░░░░░░░░ -->
+
+<img width="100%" src="./assets/sec-07.svg" alt="07 — Contato" />
+
+<div align="center">
+
+<sub>Aberto a oportunidades em **Infrastructure · Cloud · DevOps** — remoto ou híbrido.</sub>
+
+<br/>&nbsp;
+
+<a href="https://valnasio.com.br"><img src="https://img.shields.io/badge/Site-valnasio.com.br-7F5AF0?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/valnasio"><img src="https://img.shields.io/badge/LinkedIn-/in/valnasio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:rafael@valnasio.com.br"><img src="https://img.shields.io/badge/Email-rafael@valnasio.com.br-2CB1FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" /></a>
+
+<br/><br/>
+
+<sub><code>se é repetitivo, automatize. · se falhou, aprenda. · se escala, padronize.</code></sub>
+
+</div>
