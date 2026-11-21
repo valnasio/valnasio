@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F5AF0"/>
+      <stop offset="55%" stop-color="#4D7CFE"/>
+      <stop offset="100%" stop-color="#2CB1FF"/>
+    </linearGradient>
+    <linearGradient id="gradText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9B7BFF"/>
+      <stop offset="100%" stop-color="#2CB1FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="12%" r="60%">
+      <stop offset="0%" stop-color="#4D7CFE" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#4D7CFE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="520" rx="18" fill="#0A0A0B"/>
+  <rect width="1200" height="520" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="520" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="18" fill="none" stroke="#1C1C22" stroke-width="1"/>
+
+  <!-- top bar -->
+  <g transform="translate(44,40)">
+    <circle cx="7" cy="7" r="7" fill="url(#grad)"/>
+    <text x="24" y="12" font-size="18" font-weight="700" fill="#F2F2F5">rafael<tspan fill="#6B6B78" font-weight="500">.valnasio</tspan></text>
+  </g>
+
+  <!-- status pill -->
+  <g transform="translate(44,84)">
+    <rect width="372" height="34" rx="17" fill="#121217" stroke="#262630"/>
+    <circle cx="22" cy="17" r="5" fill="#34D399"/>
+    <text x="40" y="22" font-size="13.5" fill="#B8B8C4" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace">atualmente na Estação 1 · aberto a colab.</text>
+  </g>
+
+  <!-- headline -->
+  <g transform="translate(42,150)">
+    <text font-size="62" font-weight="800" letter-spacing="-1.5">
+      <tspan x="0" y="52" fill="#F4F4F7">Infrastructure &amp;</tspan>
+      <tspan x="0" y="120" fill="url(#gradText)">DevOps Engineer</tspan>
+      <tspan x="0" y="188" fill="#F4F4F7">construindo</tspan>
+      <tspan dx="18" fill="#6B6B78">sistemas</tspan>
+    </text>
+  </g>
+
+  <!-- subtext -->
+  <g transform="translate(44,382)">
+    <text font-size="16" fill="#8A8A98" font-family="'Segoe UI',Arial,sans-serif">
+      <tspan x="0" y="0">13+ anos em TI — do bare-metal ao container, do incidente à</tspan>
+      <tspan x="0" y="24">entrega contínua. Ambientes automatizados, escaláveis e confiáveis.</tspan>
+    </text>
+  </g>
+
+  <!-- buttons -->
+  <g transform="translate(44,440)" font-size="15" font-weight="600">
+    <rect width="190" height="46" rx="12" fill="url(#grad)"/>
+    <text x="95" y="29" text-anchor="middle" fill="#0A0A0B" font-weight="700">Ver projetos →</text>
+    <rect x="206" width="150" height="46" rx="12" fill="none" stroke="#2A2A33"/>
+    <text x="281" y="29" text-anchor="middle" fill="#E8E8EE">Contato</text>
+  </g>
+
+  <!-- terminal card -->
+  <g transform="translate(690,92)">
+    <rect width="470" height="336" rx="14" fill="#0E0E13" stroke="#23232C"/>
+    <!-- title bar -->
+    <rect width="470" height="40" rx="14" fill="#15151B"/>
+    <rect y="26" width="470" height="14" fill="#15151B"/>
+    <circle cx="22" cy="20" r="6" fill="#FF5F57"/>
+    <circle cx="44" cy="20" r="6" fill="#FEBC2E"/>
+    <circle cx="66" cy="20" r="6" fill="#28C840"/>
+    <text x="235" y="25" text-anchor="middle" font-size="12.5" fill="#6B6B78" font-family="'JetBrains Mono',Consolas,monospace">~/rafael — zsh</text>
+    <!-- body -->
+    <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13.5">
+      <text x="22" y="74"  fill="#4D7CFE">$ <tspan fill="#C9C9D4">whoami</tspan></text>
+      <text x="22" y="96"  fill="#8A8A98">rafael.valnasio (yZardock)</text>
+      <text x="22" y="128" fill="#4D7CFE">$ <tspan fill="#C9C9D4">cat role.txt</tspan></text>
+      <text x="22" y="150" fill="#8A8A98">Infrastructure Analyst — DevOps (Mid)</text>
+      <text x="22" y="182" fill="#4D7CFE">$ <tspan fill="#C9C9D4">stack --list</tspan></text>
+      <text x="22" y="204" fill="#7F5AF0">cloud<tspan fill="#8A8A98">=aws,gcp,oci,azure</tspan></text>
+      <text x="22" y="224" fill="#7F5AF0">iac<tspan fill="#8A8A98">=terraform,ansible</tspan></text>
+      <text x="22" y="244" fill="#7F5AF0">cicd<tspan fill="#8A8A98">=jenkins,git,docker</tspan></text>
+      <text x="22" y="276" fill="#4D7CFE">$ <tspan fill="#C9C9D4">uptime</tspan></text>
+      <text x="22" y="298" fill="#2CB1FF">operating reliably since 2012<tspan fill="#C9C9D4">_</tspan>
+        <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- stat tiles -->
+  <g transform="translate(690,448)" font-family="'JetBrains Mono',Consolas,monospace">
+    <g>
+      <rect width="110" height="56" rx="10" fill="#101016" stroke="#23232C"/>
+      <text x="12" y="22" font-size="9.5" fill="#6B6B78">ANOS EM TI</text>
+      <text x="12" y="44" font-size="20" font-weight="700" fill="url(#gradText)">13+</text>
+    </g>
+    <g transform="translate(120,0)">
+      <rect width="164" height="56" rx="10" fill="#101016" stroke="#23232C"/>
+      <text x="12" y="22" font-size="9.5" fill="#6B6B78">CLOUD STACKS</text>
+      <text x="12" y="44" font-size="15" font-weight="700" fill="#E8E8EE">AWS·GCP·OCI·Azure</text>
+    </g>
+    <g transform="translate(294,0)">
+      <rect width="176" height="56" rx="10" fill="#101016" stroke="#23232C"/>
+      <text x="12" y="22" font-size="9.5" fill="#6B6B78">CERTIFICAÇÃO</text>
+      <text x="12" y="44" font-size="13" font-weight="700" fill="#E8E8EE">AWS Cloud Practitioner</text>
+    </g>
+  </g>
+</svg>
