@@ -131,7 +131,7 @@ Atualmente atuo como **Infrastructure Analyst — DevOps (Mid-Level)** na Estaç
 
 **🎓 Formação**
 
-- **Pós · DevOps & Continuous Software Engineering**<br/><sub>PUC Minas · 2025 </sub>
+- **Pós · DevOps & Continuous Software Engineering**<br/><sub>PUC Minas · 2026 </sub>
 - **Pós · Cloud Computing**<br/><sub>Anhanguera · 2025</sub>
 - **Tecnólogo em ADS**<br/><sub>UNIFAN · 2022 → 2024 · concluído</sub>
 
